@@ -1,48 +1,48 @@
-# CODEHUB
-# Project Title: Python Application with Tkinter Framework
+# CodeHUB Text Editor
 
-## Project Overview
+## Summary
 
-This project is a Python-based application developed using the Tkinter framework. It leverages various technologies such as JSON, the Pygments library, and more to provide a comprehensive solution. The application is designed to run on Windows 7 or higher with Python 3.4 or higher.
+CodeHUB is a lightweight text editor developed using Python and the Tkinter library. The primary goal of this project was to create a functional and efficient text editor that can run smoothly on less powerful PCs, addressing the challenges faced when using heavy Integrated Development Environments (IDEs) or text editor software. The project incorporates various technologies, including JSON for data storage and the Pygments library for syntax highlighting. 
 
 ## Features
 
-- User-friendly graphical interface using Tkinter
-- Syntax highlighting using Pygments
-- Data handling with JSON and CSV
-- Additional functionalities using the Tkinter library
+- **Syntax Highlighting:** Utilizes the Pygments library to provide syntax highlighting for various programming languages.
+- **File Operations:** Supports opening, editing, and saving text files.
+- **Customizable Interface:** Users can adjust themes and fonts according to their preferences.
+- **Keyboard Shortcuts:** Various shortcuts for common text editing operations to enhance productivity.
 
 ## Requirements
 
-### System Requirements
+1. **Python 3.4 or Higher**
+2. **Windows 7 or Higher**
+3. **Required Libraries:**
+   - pygments
+   - csv (pre-installed)
+   - json (pre-installed)
+   - tkinter (pre-installed)
 
-1. Python 3.4 or Higher
-2. Windows 7 or higher
+## Installation
 
-### Required Libraries
+### Checking Installed Libraries
 
-1. **pygments**
-2. **csv** (pre-installed with Python)
-3. **json** (pre-installed with Python)
-4. **tkinter** (pre-installed with Python)
-
-## Library Installation
-
-### Checking if Libraries are Installed
-
-To check if the required libraries are installed, open Python IDLE and type the following commands one by one:
-
-import pygments
-import csv
-import json
-import tkinter
-
+To check if the required libraries are installed, open IDLE and type `import library_name`. Replace `library_name` with the names of the libraries listed above (e.g., `pygments`, `csv`, `json`, `tkinter`). If an error occurs, it means the library is not installed.
 
 ### Installing Missing Libraries
 
-Open Command Prompt and execute the following commands for each uninstalled library:
+If any libraries are missing, you can install them using the following commands in the command prompt:
 
+```sh
 pip install pygments
-pip install csv
-pip install json
-pip install tkinter
+```
+
+Libraries like `csv`, `json`, and `tkinter` come pre-installed with Python. If they are not available, consider reinstalling Python.
+
+
+## Project Structure
+
+- `codehub.py`: Main entry point for the application.
+- `highlighter.py`: Handles syntax highlighting using Pygments.
+- `settings.py`: Manages user settings and themes.
+- `menu.py`: Implements the menu and its functionalities.
+- `statusbar.py`: Displays the status bar with line and column information.
+- `textarea.py`: Main text area for editing text.
