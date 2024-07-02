@@ -1,14 +1,13 @@
-CodeHUB Text Editor 
-
-# Project Title: Python Application with PyQt Framework
+# CODEHUB
+# Project Title: Python Application with Tkinter Framework
 
 ## Project Overview
 
-This project is a Python-based application developed using the PyQt framework. It leverages various technologies such as JSON, the Pygments library, and more to provide a comprehensive solution. The application is designed to run on Windows 7 or higher with Python 3.4 or higher.
+This project is a Python-based application developed using the Tkinter framework. It leverages various technologies such as JSON, the Pygments library, and more to provide a comprehensive solution. The application is designed to run on Windows 7 or higher with Python 3.4 or higher.
 
 ## Features
 
-- User-friendly graphical interface using PyQt
+- User-friendly graphical interface using Tkinter
 - Syntax highlighting using Pygments
 - Data handling with JSON and CSV
 - Additional functionalities using the Tkinter library
@@ -36,9 +35,11 @@ To check if the required libraries are installed, open Python IDLE and type the 
 import pygments
 import csv
 import json
-import tkinter 
+import tkinter
+
 
 ### Installing Missing Libraries
+
 Open Command Prompt and execute the following commands for each uninstalled library:
 
 pip install pygments
