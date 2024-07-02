@@ -1,0 +1,18 @@
+Requirements-
+1.) Python 3.4 or Higher
+2.) windows 7 or higher
+3.) Required library-
+	1.) pygments
+	2.) csv (pre-installed if not follow below command)
+	3.) json (pre-installed if not follow below command)
+	4.) tkinter (pre-installed if not follow below command)
+
+#### To Install above library in python 3 ######
+
+1.) To check library is insatalled or not 
+	Open IDLE>type import library_name
+	# In place of module_name write above mentioned library names one by one 
+	# If errror occurs this means library not install
+
+2.) Open Command prompt and execute below commands for uninstalled library -
+pip install library_name
