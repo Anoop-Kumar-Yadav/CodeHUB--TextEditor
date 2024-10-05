@@ -46,3 +46,9 @@ Libraries like `csv`, `json`, and `tkinter` come pre-installed with Python. If t
 - `menu.py`: Implements the menu and its functionalities.
 - `statusbar.py`: Displays the status bar with line and column information.
 - `textarea.py`: Main text area for editing text.
+
+## ScreenShots
+![ide1](https://github.com/user-attachments/assets/70d48a78-955d-4bb3-8d3d-cc664a6e3816)
+![ide2](https://github.com/user-attachments/assets/f30c5aff-6f11-49b9-bace-c382955a85ff)
+![ide3](https://github.com/user-attachments/assets/afb531c9-aa23-4900-a8f1-07c38646d979)
+![ide4](https://github.com/user-attachments/assets/72f231fb-ed51-4d2d-a03b-bd188649b3e7)
