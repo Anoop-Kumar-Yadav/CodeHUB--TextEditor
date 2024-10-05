@@ -1,0 +1,4 @@
+version : 0.1
+Date : 7/Jan/2022
+
+Description : This is a simple text editor that user can us to it t for basic programming.

@@ -1,0 +1,70 @@
+{
+    "singleline_comment":"#E6DB74",
+    "multiline_comment":"#E6DB74",
+    "special_comment":"#666666",
+    "prepop_comment":"#F92672",
+
+    "punctuation":"#FFFFFF",
+
+    "operator":"#E6DB74",
+    "word_operator":"#F92672",
+
+    "binary_number":"#66D9EF",
+    "float_number":"#AE81FF",
+    "hex_number":"#66D9EF",
+    "integer_number":"#AE81FF",
+    "oct_number":"#66D9EF",
+    "long_number":"#66D9EF",
+
+    "double_string":"#E6DB74",
+    "single_string":"#E6DB74",
+    "doc_string":"#E6DB74",
+    "escape_string":"#AE81FF",
+    "interpol_string":"#9C5D27",
+    "symbol_string":"#F92672",
+
+    "name":"#66D9EF",
+    "attribute_name":"#4B69C6",
+    "builtin_name":"#AA3731",
+    "builtin_pseudo_name":"#66D9EF",
+    "class_name":"#66D9EF",
+    "constant_name":"#66D9EF",
+    "decorator_name":"#AA3731",
+    "entity_name":"#333333",
+    "exception_name":"#66D9EF",
+    "function_name":"#A6E22E",
+    "function_magic_name":"#A6E22E",
+    "namesapce_name":"#66D9EF",
+    "tag_name":"#F92672",
+    
+    "variable_name":"#F8F8F2",
+    "class_variable_name":"#FD971F",
+    "instance_variabke_name":"#FD971F",
+    "magic_variabl_name":"#FD971F",
+
+    "keyword":"#AE81FF",
+    "constant_keyword":"#AE81FF",
+    "declaration_keyword":"#66D9EF",
+    "namespace_keyword":"#F92672",
+    "pseudo_keyword":"",
+    "reserved_keyword":"#F92672",
+    "type_keyword":"#F92672",
+
+    "font_color" : "#CFCFC2" ,
+    "bg_color" : "#272822" ,
+
+    "menu_fg":"#CCCCC7",
+    "menu_fg_active" : "#F8F8F2" ,
+    "menu_bg":"#202120",
+    "menu_bg_active" : "#45453E" ,
+
+    "selection_color" : "#3F413E" ,
+
+    "statusbar_bg":"#414339",
+    "statusbar_fg":"#F8F8F2",
+    
+    "scrollbar_bg":"#272822",
+    "scrollbar_trough":"#3F413E"
+    
+
+}
